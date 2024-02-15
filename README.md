@@ -15,8 +15,8 @@
 
 <br/>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/lz20r/NaiyaoAutoImport" title="Register">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=Register&theme=rose_pine&border_color=61dafb&border_radius=10" />
+    <a align="left" href="https://github.com/lz20r/cinammon.es" title="Cinammon Hosting">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=Cinammon.es&theme=rose_pine&border_color=61dafb&border_radius=10" />
 </div>
 <div width="100%" align="center">
     <a align="left" width="50%" href="https://github.com/lz20r/register" title="Momopy">
@@ -25,5 +25,7 @@
     <a align="right" width="100%" href="https://github.com/lz20r/hana-bot" title="Momojs">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=momojs&theme=rose_pine&border_color=61dafb&border_radius=10" />
     </a>
+    <a align="left" href="https://github.com/lz20r/NaiyaoAutoImport" title="Register">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=Register&theme=rose_pine&border_color=61dafb&border_radius=10" />
 </div>
 </div>
