@@ -17,6 +17,9 @@
 <div width="100%" align="center">
     <a align="left" href="https://github.com/lz20r/cinammon.es" title="Cinammon Hosting">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=Cinammon.es&theme=rose_pine&border_color=61dafb&border_radius=10" />
+    <a align="left" href="https://github.com/lz20r/cinammonScripts" title="Cinammon Scripts">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinammonScripts&theme=rose_pine&border_color=61dafb&border_radius=10" />
+</div>
 </div>
 <div width="100%" align="center">
     <a align="left" width="50%" href="https://github.com/lz20r/register" title="Momopy">
