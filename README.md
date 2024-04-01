@@ -17,8 +17,6 @@
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinammon.es&theme=rose_pine&border_color=61dafb&border_radius=10"/>
     <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
-    <a align="left" href="https://github.com/lz20r/cinammonbilling" title="cinammonbilling">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinammonbilling&theme=rose_pine&border_color=61dafb&border_radius=10"/>
 </div>
 
 <h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Bot of Discord Repositories </h2>
