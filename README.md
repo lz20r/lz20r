@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/github/followers/lz20r?label=Followers&style=for-the-badge&color=lightblue">
   </a>
   <a href="https://lz20r.link/discord" alt="Discord">
-      <img src="https://img.shields.io/discord/1033160523044376616?label=discord&style=for-the-badge&color=lightblue"/>
+      <img src="https://img.shields.io/discord/1190032384096206909?label=discord&style=for-the-badge&color=lightblue"/>
   </a> 
 </h3>
 
