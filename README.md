@@ -3,15 +3,12 @@
 </h2>
 
 <h3 align="center">
-  <a href="https://github.com/hwalker928">
-      <img src="https://img.shields.io/github/followers/hwalker928?label=Followers&style=for-the-badge&color=lightblue">
+  <a href="https://github.com/lz20r">
+      <img src="https://img.shields.io/github/followers/lz20r?label=Followers&style=for-the-badge&color=lightblue">
   </a>
-  <a href="https://harryw.link/discord" alt="Discord">
-      <img src="https://img.shields.io/discord/738451951758606336?label=discord&style=for-the-badge&color=lightblue"/>
-  </a>
-  <a href="https://harryw.link/sparked" alt="Sparked Host">
-      <img src="https://img.shields.io/static/v1?label=Sponsor&message=Sparked%20Host&color=yellow&style=for-the-badge"/>
-  </a>
+  <a href="https://lz20r.link/discord" alt="Discord">
+      <img src="https://img.shields.io/discord/1033160523044376616?label=discord&style=for-the-badge&color=lightblue"/>
+  </a> 
 </h3>
 
 <br />
