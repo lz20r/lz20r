@@ -20,14 +20,11 @@
 </div>
 <hr/>
 
-<h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Hosting Repositories </h2>
+<h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Bots of WhatsApp Repositories </h2>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/lz20r/cinammon.es" title="Cinammon Hosting">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinammon.es&theme=rose_pine&border_color=61dafb&border_radius=10"/>
-    <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
-</div>
-
+    <a align="left" href="https://github.com/lz20r/totoro" title="Cinammon Hosting">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=totoro&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+        
 <h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Bot of Discord Repositories </h2>
 <div width="100%" align="center">
     <a align="right" width="100%" href="https://github.com/lz20r/momojs" title="Momo js">
@@ -35,9 +32,12 @@
     <a align="left" width="50%" href="https://github.com/lz20r/momopy" title="Momo py">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=momopy&theme=rose_pine&border_color=61dafb&border_radius=10"/>
 </div>
-        
-<h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Registration </h2>
+
+<h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Hosting Repositories </h2>
 <div width="100%" align="center">
-     <a align="left" href="https://github.com/lz20r/NaiyaoAutoImport" title="Register">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=Register&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+    <a align="left" href="https://github.com/cinammon-es/cinammon.es" title="Cinammon Hosting">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cinammon-es&repo=cinammon&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+    <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+</div> 
 </div>
