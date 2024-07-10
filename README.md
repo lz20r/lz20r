@@ -39,5 +39,4 @@
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cinammon-es&repo=cinammon&theme=rose_pine&border_color=61dafb&border_radius=10"/>
     <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
-</div> 
-</div>
+</div>  
