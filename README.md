@@ -22,8 +22,8 @@
 
 <h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Bots of WhatsApp Repositories </h2>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/lz20r/totoro" title="Cinammon Hosting">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=totoro&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+    <a align="left" href="https://github.com/lz20r/totorobot.wa" title="Cinammon Hosting">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=totorobot.wa&theme=rose_pine&border_color=61dafb&border_radius=10"/>
         
 <h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Bot of Discord Repositories </h2>
 <div width="100%" align="center">
