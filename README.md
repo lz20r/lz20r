@@ -35,7 +35,7 @@
 
 <h2 align="center" style="font-family: Rubik 80s Fade"> Nia's Hosting Repositories </h2>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/cinammon-es/cinammon.es" title="Cinammon Hosting">
+    <a align="left" href="https://github.com/cinammon-es/cinammon" title="Cinammon Hosting">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cinammon-es&repo=cinammon&theme=rose_pine&border_color=61dafb&border_radius=10"/>
     <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
