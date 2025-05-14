@@ -20,6 +20,13 @@
 
 </div>
 
+<h2 align="center">🎮 Discord Status</h2>
+<p align="center">
+  <a href="https://discord.com/users/1033160523044376616">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px" />
+  </a>
+</p>
+
 ---
 
 ### 🔍 Currently working on
@@ -30,15 +37,6 @@
 ### 📘 Currently learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  alt="Flask" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="80" />
-              
----
-
-<h2 align="center">🎮 Discord Status</h2>
-<p align="center">
-  <a href="https://discord.com/users/1033160523044376616">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px" />
-  </a>
-</p>
 
 ---
 
