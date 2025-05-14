@@ -34,11 +34,8 @@
 
 ### 📘 Currently learning
 
-<img src="https://cdn.jsdelivr.net/gh/cinammon-es/panel@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="80" />
-<img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/react/react-original.svg" alt="React" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/cinammon-es/panel@latest/icons/flask/flask-original.svg"  alt="Flask" width="80" />    
-<img src="https://cdn.jsdelivr.net/gh/cinammon-es/panel@latest/icons/docker/docker-original.svg"  alt="Docker" width="80" />    
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  alt="Flask" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="80" />
+              
 ---
 
 <h2 align="center">🎮 Discord Status</h2>
@@ -69,15 +66,18 @@
 
 <h2 align="center">🛠 Languages & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/php/php-original.svg" alt="PHP" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="90" />
   <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/python/python-original.svg" alt="Python" width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/cinammon-es/panel@latest/icons/laravel/laravel-original.svg" alt="Python" width="90" />    
-  <img src="https://cdn.jsdelivr.net/gh/cinammon-es/panel@latest/icons/flask/flask-original.svg"  alt="Python" width="90" />    
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/react/react-original.svg" alt="React" width="90" />
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" />
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="90" />
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/linux/linux-original.svg" alt="Linux" width="90" />
-  <img src="https://raw.githubusercontent.com/cinammon-es/panel/master/icons/bash/bash-original.svg" alt="Bash" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="90" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  alt="Flask" width="90" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="90" />
+  
   <!-- Agrega más si quieres -->
 </p>
 
