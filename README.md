@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Nia (Naiara Zhiyao)</h1>
-<h3 align="center">✨ 23 y.o Full Stack Developer from China 🇨🇳 based in Spain 🇪🇸</h3>
+<h3 align="center">✨ 23 y.o Full Stack Developer from China based in Spain </h3>
 
 <div align="center">
   <a href="https://github.com/lz20r">
