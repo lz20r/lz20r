@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
 </h3>
 
 <h3 align="center">
