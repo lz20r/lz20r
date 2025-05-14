@@ -2,8 +2,6 @@
     Nia's Github Stats
 </h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
-
 <h3 align="center">
   <a href="https://github.com/lz20r">
       <img src="https://img.shields.io/github/followers/lz20r?label=Followers&style=for-the-badge&color=lightblue">
@@ -11,6 +9,10 @@
   <a href="https://lz20r.link/discord" alt="Discord">
       <img src="https://img.shields.io/discord/1299465748598493276?label=discord&style=for-the-badge&color=lightblue"/>
   </a> 
+    
+<br />    <br />     
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
 </h3>
 
 <br />
