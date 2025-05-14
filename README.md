@@ -2,6 +2,8 @@
     Nia's Github Stats
 </h2>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
+
 <h3 align="center">
   <a href="https://github.com/lz20r">
       <img src="https://img.shields.io/github/followers/lz20r?label=Followers&style=for-the-badge&color=lightblue">
@@ -40,5 +42,3 @@
     <a align="left" href="https://github.com/lz20r/cinnamonScripts" title="Cinnamon Scripts">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lz20r&repo=cinnamonScripts&theme=rose_pine&border_color=61dafb&border_radius=10"/>
 </div>  
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033160523044376616?theme=dark&bg=2E1A47&animated=false&hideDiscrim=true&borderRadius=25px)](https://discord.com/users/1033160523044376616)
