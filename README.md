@@ -30,7 +30,7 @@
 ---
 
 ### 🔍 Currently working on
-<a href="https://github.com/cinammon-es/panel">
+<a href="https://github.com/cinammon-net/panel">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cinammon-es&repo=panel&theme=rose_pine&border_color=61dafb&border_radius=10"/>
   </a>
 
