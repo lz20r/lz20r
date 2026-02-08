@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Nia (Naiara Zhiyao)</h1>
-<h3 align="center">✨ 23 y.o Full Stack Developer from China based in Spain </h3>
+<h3 align="center">✨ 24 y.o Full Stack Developer from China based in Spain </h3>
 
 <div align="center">
   <a href="https://github.com/lz20r">
@@ -30,8 +30,8 @@
 ---
 
 ### 🔍 Currently working on
-<a href="https://github.com/cinammon-net/panel">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=moxilab&repo=moxiBot&theme=rose_pine&border_color=61dafb&border_radius=10"/>
+<a href="https://github.com/MoxiLab/moxiBot">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MoxiLab&repo=moxiBot&theme=rose_pine&border_color=61dafb&border_radius=10"/>
   </a>
 
 ### 📘 Currently learning
