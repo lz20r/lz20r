@@ -57,7 +57,7 @@
 ## `$ ./trophies --user lz20r`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lz20r&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://trophy.ryglcloud.net/?username=lz20r&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
 </div>
 
 ## `$ ./stats --user lz20r`
