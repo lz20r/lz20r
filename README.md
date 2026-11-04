@@ -65,7 +65,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lz20r&amp;hide_border=true&amp;bg_color=0a0e14&amp;title_color=00f0ff&amp;text_color=d6deeb&amp;icon_color=ff2fd6&amp;ring_color=00f0ff&amp;locale=es&amp;show_icons=true&amp;count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lz20r&amp;hide_border=true&amp;bg_color=0a0e14&amp;title_color=00f0ff&amp;text_color=d6deeb&amp;icon_color=ff2fd6&amp;ring_color=00f0ff&amp;locale=es&amp;layout=compact&amp;exclude_repo=CEU&amp;langs_count=8&amp;hide=mathematica" alt="Top languages" />
+<img src="langs.svg" width="100%" alt="Lenguajes en mis proyectos actuales" />
 
 <img src="https://streak-stats.demolab.com?user=lz20r&background=0a0e14&border=263040&ring=00f0ff&fire=ff2fd6&currStrNum=00f0ff&sideNums=d6deeb&currStrLabel=00f0ff&sideLabels=7a8699&dates=7a8699&stroke=263040&border_radius=10&locale=es" alt="Streak" />
 
