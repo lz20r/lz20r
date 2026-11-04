@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="462" viewBox="0 0 880 462">
+<defs>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff2fd6"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.c{fill:#00f0ff} .m{fill:#ff2fd6} .g{fill:#39ff88} .t{fill:#d6deeb} .k{fill:#7a8699} .a{fill:#ffb86b} .b{font-weight:700}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{50%{opacity:.35}}
+.cur{animation:blink 1s step-end infinite} .pulse{animation:pulse 1.6s ease-in-out infinite}
+.l0{opacity:0;animation:in .3s ease 0.0s forwards}
+.l1{opacity:0;animation:in .3s ease 0.4s forwards}
+.l3{opacity:0;animation:in .3s ease 0.8s forwards}
+.l4{opacity:0;animation:in .3s ease 1.2s forwards}
+.l5{opacity:0;animation:in .3s ease 1.6s forwards}
+.l7{opacity:0;animation:in .3s ease 2.0s forwards}
+.l8{opacity:0;animation:in .3s ease 2.4s forwards}
+.lf{opacity:0;animation:in .2s ease 2.8s forwards}
+</style>
+<rect x="0.5" y="0.5" width="879" height="461" rx="10" fill="#0a0e14" stroke="url(#neon)" stroke-opacity=".7"/>
+<path d="M10.5 0.5h859a10 10 0 0 1 10 10v24h-879v-24a10 10 0 0 1 10-10z" fill="#121821"/>
+<line x1="1" y1="34.5" x2="879" y2="34.5" stroke="#263040"/>
+<circle cx="20" cy="18" r="5.5" fill="#ff5f56"/><circle cx="38" cy="18" r="5.5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5.5" fill="#27c93f"/>
+<text x="440.0" y="22" text-anchor="middle" font-size="12.5" class="k">naiara@cinammon: ~ — zsh</text>
+<text x="440.0" y="78" text-anchor="middle" font-size="30" fill="url(#neon)" filter="url(#glow)" xml:space="preserve">╔╗╔╔═╗╔═╗╦ ╦╦╔╦╗╔═╗</text>
+<text x="440.0" y="110" text-anchor="middle" font-size="30" fill="url(#neon)" filter="url(#glow)" xml:space="preserve">║║║╠═╣╔═╝╠═╣║ ║║╠═╣</text>
+<text x="440.0" y="142" text-anchor="middle" font-size="30" fill="url(#neon)" filter="url(#glow)" xml:space="preserve">╝╚╝╩ ╩╚═╝╩ ╩╩═╩╝╩ ╩</text>
+<text x="440.0" y="180" text-anchor="middle" font-size="13" class="k" letter-spacing="2">// NAIARA ZHIYAO · SHE/HER · 歡迎 · MÓSTOLES, MADRID //</text>
+<text x="32" y="218" font-size="15" class="l0" xml:space="preserve"><tspan class="m b">naiara</tspan><tspan class="k">@</tspan><tspan class="c b">cinammon</tspan><tspan class="k">:~$ </tspan><tspan class="t">whoami</tspan></text>
+<text x="32" y="242" font-size="15" class="l1" xml:space="preserve"><tspan class="t">estudiante · dev full-stack · hosting, paneles y bots de Discord</tspan></text>
+<text x="32" y="290" font-size="15" class="l3" xml:space="preserve"><tspan class="m b">naiara</tspan><tspan class="k">@</tspan><tspan class="c b">cinammon</tspan><tspan class="k">:~$ </tspan><tspan class="t">ls ~/orgs</tspan></text>
+<text x="32" y="314" font-size="15" class="l4" xml:space="preserve"><tspan class="c b">cinammon.net/  </tspan><tspan class="k">hosting de servidores de juegos y cloud</tspan></text>
+<text x="32" y="338" font-size="15" class="l5" xml:space="preserve"><tspan class="m b">MoxiLab/       </tspan><tspan class="k">bot de Discord Moxi y su web</tspan></text>
+<text x="32" y="386" font-size="15" class="l7" xml:space="preserve"><tspan class="m b">naiara</tspan><tspan class="k">@</tspan><tspan class="c b">cinammon</tspan><tspan class="k">:~$ </tspan><tspan class="t">git log --oneline -1</tspan></text>
+<text x="32" y="410" font-size="15" class="l8" xml:space="preserve"><tspan class="a">ab5038c </tspan><tspan class="t">feat(billing): cleaner client-area navigation</tspan></text>
+<g class="lf"><text x="32" y="434" font-size="15" xml:space="preserve"><tspan class="m b">naiara</tspan><tspan class="k">@</tspan><tspan class="c b">cinammon</tspan><tspan class="k">:~$ </tspan></text><rect class="cur" x="222.05" y="421" width="9" height="17" fill="#00f0ff"/></g>
+</svg>
