@@ -65,11 +65,11 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lz20r&amp;hide_border=true&amp;bg_color=0a0e14&amp;title_color=00f0ff&amp;text_color=d6deeb&amp;icon_color=ff2fd6&amp;ring_color=00f0ff&amp;locale=es&amp;show_icons=true&amp;count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lz20r&amp;hide_border=true&amp;bg_color=0a0e14&amp;title_color=00f0ff&amp;text_color=d6deeb&amp;icon_color=ff2fd6&amp;ring_color=00f0ff&amp;locale=es&amp;layout=compact&amp;exclude_repo=CEU&amp;langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lz20r&amp;hide_border=true&amp;bg_color=0a0e14&amp;title_color=00f0ff&amp;text_color=d6deeb&amp;icon_color=ff2fd6&amp;ring_color=00f0ff&amp;locale=es&amp;layout=compact&amp;exclude_repo=CEU&amp;langs_count=8&amp;hide=mathematica" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=lz20r&background=0a0e14&border=263040&ring=00f0ff&fire=ff2fd6&currStrNum=00f0ff&sideNums=d6deeb&currStrLabel=00f0ff&sideLabels=7a8699&dates=7a8699&stroke=263040&border_radius=10&locale=es" alt="Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lz20r&bg_color=0a0e14&color=d6deeb&line=ff2fd6&point=00f0ff&area=true&area_color=00f0ff&title_color=00f0ff&hide_border=true&custom_title=%24%20git%20log%20--graph" alt="Activity graph" />
+
 
 </div>
 
@@ -95,7 +95,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" alt="Vue" title="Vue" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" alt="Flask" title="Flask" />
+<img src="https://skillicons.dev/icons?i=flask" width="40" alt="Flask" title="Flask" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind" title="Tailwind" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
 </td>
@@ -115,10 +115,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" alt="Ubuntu" title="Ubuntu" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="40" alt="Bash" title="Bash" />
+<img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" title="Bash" />
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" title="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" alt="JetBrains" title="JetBrains" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" title="PyCharm" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="40" alt="Yarn" title="Yarn" />
@@ -127,7 +127,7 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" alt="After Effects" title="After Effects" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" title="WordPress" />
+<img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress" title="WordPress" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
 </td>
@@ -139,7 +139,7 @@
 <td align="center" colspan="3">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" title="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" alt="MATLAB" title="MATLAB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" alt="LaTeX" title="LaTeX" />
+<img src="https://skillicons.dev/icons?i=latex" width="40" alt="LaTeX" title="LaTeX" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" alt="RStudio" title="RStudio" />
 </td>
 </tr>
