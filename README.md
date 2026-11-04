@@ -57,7 +57,7 @@
 ## `$ ./trophies --user lz20r`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lz20r&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=lz20r&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
 </div>
 
 ## `$ ./stats --user lz20r`
@@ -65,11 +65,11 @@
 <div align="center">
 
 <img height="170" src="https://stats.hedystia.com/api?username=lz20r&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0e14&title_color=00f0ff&text_color=d6deeb&icon_color=ff2fd6&border_color=263040&border_radius=10&locale=es" alt="GitHub stats" />
-<img height="170" src="https://stats.hedystia.com/api/top-langs/?username=lz20r&layout=compact&langs_count=8&bg_color=0a0e14&title_color=ff2fd6&text_color=d6deeb&border_color=263040&border_radius=10&locale=es" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lz20r&layout=compact&langs_count=8&bg_color=0a0e14&title_color=ff2fd6&text_color=d6deeb&border_color=263040&border_radius=10&locale=es" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=lz20r&background=0a0e14&border=263040&ring=00f0ff&fire=ff2fd6&currStrNum=00f0ff&sideNums=d6deeb&currStrLabel=00f0ff&sideLabels=7a8699&dates=7a8699&stroke=263040&border_radius=10&locale=es" alt="Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lz20r&bg_color=0a0e14&color=d6deeb&line=ff2fd6&point=00f0ff&area=true&area_color=00f0ff&title_color=00f0ff&hide_border=true&custom_title=%24%20git%20log%20--graph" alt="Activity graph" />
+<img width="100%" src="https://ghchart.rshah.org/00f0ff/lz20r" alt="Activity graph" />
 
 </div>
 
